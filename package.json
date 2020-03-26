@@ -1,0 +1,20 @@
+{
+  "name": "ryobi-gdo",
+  "version": "0.0.1",
+  "description": "Unofficial Ryobi Garage Door Opener API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean Reece",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.1"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "ws": "^7.2.3"
+  }
+}
